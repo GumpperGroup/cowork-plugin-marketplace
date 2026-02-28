@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "web-search": {
+      "type": "builtin",
+      "description": "Web search for auditing bio pages, checking AI visibility, and researching competitors. Required for /audit-bio-page and /score-visibility commands."
+    },
+    "google-business": {
+      "type": "url",
+      "url": "",
+      "description": "Optional: Connect your Google Business Profile MCP server to push bio updates directly. See README for setup instructions.",
+      "disabled": true
+    },
+    "zillow": {
+      "type": "url",
+      "url": "",
+      "description": "Optional: Connect Zillow MCP server for profile syncing. Community MCP server — see README.",
+      "disabled": true
+    },
+    "google-drive": {
+      "type": "url",
+      "url": "",
+      "description": "Optional: Store bio versions and profile tracker in Google Drive for persistence across sessions.",
+      "disabled": true
+    },
+    "slack": {
+      "type": "url",
+      "url": "",
+      "description": "Optional: Post bio updates to a team Slack channel for review and approval workflows.",
+      "disabled": true
+    }
+  }
+}

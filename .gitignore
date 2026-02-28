@@ -1,0 +1,18 @@
+# User-generated files (created by the plugin during use)
+profile-tracker.md
+profile-tracker.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Local settings
+*.local.json
+*.local.md
