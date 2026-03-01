@@ -1,14 +1,14 @@
 {
   "name": "biobeacon",
   "description": "Optimize real estate agent bios for AI-driven search engines (ChatGPT, Google AI Overviews, Perplexity, Claude, Grok). Generate EEAT-optimized, platform-specific bio versions, audit existing bio pages, track profile URLs, score AI visibility, and generate structured data markup.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "Gumpper Group, LLC, David Gumpper"
   },
   "license": "Apache-2.0",
-  "homepage": "https://github.com/GumpperGroup/biobeacon",
+  "homepage": "https://github.com/GumpperGroup/cowork-plugin-marketplace",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GumpperGroup/biobeacon"
+    "url": "https://github.com/GumpperGroup/cowork-plugin-marketplace"
   }
 }

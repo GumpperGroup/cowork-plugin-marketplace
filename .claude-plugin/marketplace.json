@@ -1,16 +1,14 @@
 {
-  "name": "biobeacon",
+  "name": "gumpper-group",
   "owner": {
-    "name": "Gumpper Group, LLC, David Gumpper"
+    "name": "Gumpper Group, LLC",
+    "email": "david.g@gumppergroup.com"
   },
   "plugins": [
     {
-      "name": "BioBeacon",
-      "source": ".",
-      "description": "Optimize real estate agent bios for AI-driven search engines. Generate EEAT-optimized, platform-specific bio versions, audit bio pages, track profiles, and generate structured data markup.",
-      "version": "1.0.1",
-      "category": "marketing",
-      "tags": ["real-estate", "seo", "eeat", "ai-search", "bio-optimization"]
+      "name": "biobeacon",
+      "source": "./plugins/biobeacon",
+      "description": "Optimize real estate agent bios for AI-driven search engines. Generate EEAT-optimized, platform-specific bio versions, audit bio pages, track profiles, and generate structured data markup."
     }
   ]
 }
