@@ -28,54 +28,16 @@ AI search engines don't just match keywords. They synthesize facts, evaluate aut
 
 ### Installation
 
-There are three ways to install this plugin:
-
-#### Option 1: Install from GitHub (Recommended)
+#### Install from GitHub (Recommended)
 
 1. Open **Claude Desktop** → **Cowork**
-2. Add the Gumpper Group marketplace:
-
-```
-/plugin marketplace add GumpperGroup/cowork-plugin-marketplace
-```
-
-3. Install the plugin:
-
-```
-/plugin install biobeacon@gumpper-group
-```
-
-4. Restart Claude to activate the plugin.
-
-#### Option 2: Install from Local Directory
-
-1. Clone the marketplace repository:
-
-```bash
-git clone https://github.com/GumpperGroup/cowork-plugin-marketplace.git
-```
-
-2. In Claude Desktop / Cowork, add the local directory as a marketplace:
-
-```
-/plugin marketplace add ./path/to/cowork-plugin-marketplace
-```
-
-3. Install the plugin:
-
-```
-/plugin install biobeacon@gumpper-group
-```
-
-1. Restart Claude to activate the plugin.
-
-#### Option 3: Manual File Placement
-
-1. Clone or download the repository
-2. Copy the `biobeacon` folder to your Claude plugins directory:
-  - **macOS**: `~/.claude/plugins/`
-  - **Windows**: `%USERPROFILE%\.claude\plugins\`
-3. Restart Claude
+2. Click the **+** (plus) button
+3. Select **"Plugins"**
+4. Select **"Add Plugins"**
+5. On the Plugins page, select the **"Personal"** tab
+6. Click the **+** (plus) button
+7. Enter the marketplace owner/repo: `gumpper-group/biobeacon`
+8. Restart Claude to activate the plugin.
 
 ### Verify Installation
 
@@ -342,7 +304,7 @@ Contributions are welcome! Here's how to help:
 1. **Fork** this repository
 2. **Create a branch** for your feature (`git checkout -b feature/team-management`)
 3. **Make your changes** — all plugin content is markdown and JSON, no build steps required
-4. **Test locally** using `/plugin marketplace add ./your-local-path`
+4. **Test locally** by adding your fork via the Plugins page (+ → Plugins → Add Plugins → Personal → + → enter your fork's owner/repo)
 5. **Submit a Pull Request** with a clear description of what you added or changed
 
 ### Contribution Ideas

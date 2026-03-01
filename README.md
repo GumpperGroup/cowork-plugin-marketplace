@@ -10,19 +10,17 @@ A private [Claude Cowork / Claude Code plugin marketplace](https://docs.claude.c
 
 ## Installation
 
-### 1. Add the Marketplace
+### 1. Open the Plugin Manager
 
-In Claude Desktop / Cowork or Claude Code, run:
+1. In **Claude Desktop → Cowork**, click the **+** (plus) button
+2. Select **"Plugins"**
+3. Select **"Add Plugins"**
 
-```
-/plugin marketplace add GumpperGroup/cowork-plugin-marketplace
-```
+### 2. Add the Marketplace
 
-### 2. Install a Plugin
-
-```
-/plugin install biobeacon@gumpper-group
-```
+1. On the Plugins page, select the **"Personal"** tab
+2. Click the **+** (plus) button
+3. Enter the marketplace owner/repo: `gumpper-group/biobeacon`
 
 ### 3. Restart Claude
 
