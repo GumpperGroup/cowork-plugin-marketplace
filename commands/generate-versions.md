@@ -1,5 +1,6 @@
 ---
 description: Generate platform-specific bio versions tailored to each site's character limits, audience, and formatting rules. Supports Zillow, Google Business, Realtor.com, FastExpert, LinkedIn, personal websites, and social media.
+allowed-tools: Read, Write, Edit, Glob
 ---
 
 # Generate Platform Versions

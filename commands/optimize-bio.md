@@ -1,5 +1,6 @@
 ---
 description: Optimize a real estate agent bio for AI search engines. Paste your current bio or provide your details, and get back a fully optimized version with EEAT signals, natural query phrasing, and entity-rich content.
+allowed-tools: Read, Write, Edit, Glob, Grep
 ---
 
 # Optimize Bio

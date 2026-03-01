@@ -1,5 +1,6 @@
 ---
 description: Score your overall AI search visibility across all platforms using a weighted rubric covering bio quality, platform coverage, structured data, reviews, entity consistency, and content authority. Get a score out of 100 with specific improvement priorities.
+allowed-tools: Read, Write, Edit, Glob, WebFetch, WebSearch
 ---
 
 # Score AI Visibility

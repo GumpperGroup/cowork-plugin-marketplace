@@ -1,5 +1,6 @@
 ---
 description: Generate schema.org JSON-LD structured data markup for your real estate agent bio page. Produces ready-to-paste HTML markup including RealEstateAgent, AggregateRating, and FAQPage schemas.
+allowed-tools: Read, Write, Edit, Glob
 ---
 
 # Generate Schema Markup

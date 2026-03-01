@@ -1,5 +1,6 @@
 ---
 description: Audit a bio page URL for AI search readiness. Checks structure, keywords, scannability, indexability, schema markup, and EEAT signals. Provide a URL to get a full audit report with a visibility score.
+allowed-tools: Read, Write, Edit, Glob, WebFetch, WebSearch
 ---
 
 # Audit Bio Page

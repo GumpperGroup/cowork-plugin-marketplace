@@ -1,5 +1,6 @@
 ---
 description: View, add, update, or audit your profile URL tracker. Maintains a list of every platform where your bio appears, with status tracking and update reminders.
+allowed-tools: Read, Write, Edit, Glob, WebFetch, WebSearch
 ---
 
 # Manage Profiles

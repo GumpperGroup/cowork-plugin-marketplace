@@ -1,5 +1,6 @@
 ---
 description: Analyze competing agents' bios and online presence to find positioning opportunities. Identifies gaps in competitor EEAT signals, unclaimed niches, and differentiation strategies you can use.
+allowed-tools: Read, Write, Edit, Glob, WebFetch, WebSearch
 ---
 
 # Analyze Competitors

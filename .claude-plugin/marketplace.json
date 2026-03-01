@@ -8,7 +8,7 @@
       "name": "BioBeacon",
       "source": ".",
       "description": "Optimize real estate agent bios for AI-driven search engines. Generate EEAT-optimized, platform-specific bio versions, audit bio pages, track profiles, and generate structured data markup.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "marketing",
       "tags": ["real-estate", "seo", "eeat", "ai-search", "bio-optimization"]
     }
