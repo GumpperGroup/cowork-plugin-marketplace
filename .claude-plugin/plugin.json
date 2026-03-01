@@ -1,5 +1,5 @@
 {
-  "name": "BioBeacon",
+  "name": "biobeacon",
   "description": "Optimize real estate agent bios for AI-driven search engines (ChatGPT, Google AI Overviews, Perplexity, Claude, Grok). Generate EEAT-optimized, platform-specific bio versions, audit existing bio pages, track profile URLs, score AI visibility, and generate structured data markup.",
   "version": "1.0.0",
   "author": {
